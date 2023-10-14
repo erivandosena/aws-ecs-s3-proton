@@ -21,6 +21,16 @@ https://hub.docker.com/r/erivando/ecs-backend-cloud
 
 # Git
 
+```bash
+git init
+git config --global user.email "erivandosena@gmail.com"
+git config --global user.name "Erivando Sena"
+git remote add origin https://github.com/erivandosena/aws-ecs-s3-proton.git
+git add .
+git commit -m "initial commit."
+git push -u origin main
+```
+
 …or create a new repository on the command line  
 
 ```bash
